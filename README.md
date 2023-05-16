@@ -15,7 +15,7 @@ Clone this repository to your local machine using the following command:
 
 bash
 Copy code
-git clone https://github.com/your-username/weather-forecast-website.git
+git clone https://github.com/SANJAY-012/Javascript-projects.git
 Navigate to the project directory:
 
 bash
